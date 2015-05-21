@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Everything starts here...</title><link href="cooladam201212.github.io/" rel="alternate"></link><link href="cooladam201212.github.io/feeds/category.atom.xml" rel="self"></link><id>cooladam201212.github.io/</id><updated>2012-12-01T10:02:00+01:00</updated><entry><title>The first article</title><link href="cooladam201212.github.io/the-first-article.html" rel="alternate"></link><updated>2012-12-01T10:02:00+01:00</updated><author><name>Franko</name></author><id>tag:,2012-12-01:cooladam201212.github.io/the-first-article.html</id><summary type="html">&lt;p&gt;See below intra-site link examples in reStructuredText format.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="cooladam201212.github.io/the-second-article.html"&gt;a link relative to the current file&lt;/a&gt;
+&lt;a class="reference external" href="cooladam201212.github.io/the-second-article.html"&gt;a link relative to the content root&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>
